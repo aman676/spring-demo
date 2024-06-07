@@ -10,7 +10,7 @@ import com.warshaw.learn_spring.game.GameRunner;
 import com.warshaw.learn_spring.game.PacmanGame;
 
 @Configuration
-public class GamingConfiguration {
+public class GamingConfiguration { //No need of configuration class as added component and component scan
 
 	@Bean
 	@Primary

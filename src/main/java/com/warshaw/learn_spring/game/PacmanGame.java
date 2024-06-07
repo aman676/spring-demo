@@ -1,5 +1,8 @@
 package com.warshaw.learn_spring.game;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class PacmanGame implements GameConsole{
 	
 	public void up() {
