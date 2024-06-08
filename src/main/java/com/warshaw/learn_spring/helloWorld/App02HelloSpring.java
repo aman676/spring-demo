@@ -1,4 +1,4 @@
-package com.warshaw.learn_spring;
+package com.warshaw.learn_spring.helloWorld;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
